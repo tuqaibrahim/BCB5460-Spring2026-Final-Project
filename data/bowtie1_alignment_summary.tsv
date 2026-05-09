@@ -1,0 +1,7 @@
+sample	log_file
+C1_L-10	bowtie1_alignments/C1_L-10_bowtie1.log
+C1_R+3	bowtie1_alignments/C1_R+3_bowtie1.log
+C2_L-10	bowtie1_alignments/C2_L-10_bowtie1.log
+C2_R+3	bowtie1_alignments/C2_R+3_bowtie1.log
+C3_L-10	bowtie1_alignments/C3_L-10_bowtie1.log
+C3_R+3	bowtie1_alignments/C3_R+3_bowtie1.log

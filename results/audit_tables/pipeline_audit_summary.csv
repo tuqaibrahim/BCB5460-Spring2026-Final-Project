@@ -1,0 +1,7 @@
+pipeline,annotation,aligner,featureCounts_mode,overlap_with_GEO,mean_spearman_vs_GEO,DE_result,main_conclusion
+GEO processed matrix,GEO-provided processed lncRNA table,unknown from processed table,unknown,reference,reference,GEO matrix contains paper-like signal for some top genes,Use as reference processed matrix.
+STAR + GENCODE v38 primary + featureCounts primary-only,GENCODE v38 primary,STAR,-s 0 --primary,3421,~0.44,Does not reproduce paper genes,Poor ID overlap; many paper/GEO IDs absent from v38 annotation.
+STAR + GENCODE v37 + featureCounts primary-only,GENCODE v37,STAR,-s 0 --primary,9225,0.382,Does not reproduce paper genes,"Annotation overlap improves, but counts still mismatch."
+STAR + GENCODE v37 + featureCounts -M --primary,GENCODE v37,STAR,-s 0 -M --primary,10300,0.442,Not selected for final DE,Counting multimappers improves overlap but still misses key GEO-high genes.
+STAR + GENCODE v37 + featureCounts -M -O --fraction,GENCODE v37,STAR,"-s 0 -M -O --fraction, no --primary",11038,0.504,34 significant genes; none of paper top 10 significant,"Best raw-derived reconstruction, but still does not reproduce paper DE genes."
+Bowtie1 + GENCODE v37 + featureCounts -M -O --fraction,GENCODE v37,Bowtie1,-s 0 -M -O --fraction,10595,0.431,Not run for DE because count match was worse than STAR,Bowtie1 did not improve global match to GEO.

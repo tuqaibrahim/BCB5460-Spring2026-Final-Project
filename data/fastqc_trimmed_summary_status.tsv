@@ -1,0 +1,67 @@
+sample	status	module	filename
+C1_L-10_cutadapt	PASS	Basic Statistics	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	FAIL	Per base sequence quality	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	WARN	Per tile sequence quality	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	PASS	Per sequence quality scores	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	FAIL	Per base sequence content	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	FAIL	Per sequence GC content	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	WARN	Per base N content	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	WARN	Sequence Length Distribution	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	FAIL	Sequence Duplication Levels	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	FAIL	Overrepresented sequences	C1_L-10_cutadapt.fastq.gz
+C1_L-10_cutadapt	WARN	Adapter Content	C1_L-10_cutadapt.fastq.gz
+C1_R+3_cutadapt	PASS	Basic Statistics	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Per base sequence quality	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	WARN	Per tile sequence quality	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Per sequence quality scores	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Per base sequence content	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Per sequence GC content	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Per base N content	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	WARN	Sequence Length Distribution	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Sequence Duplication Levels	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Overrepresented sequences	C1_R+3_cutadapt.fastq.gz
+C1_R+3_cutadapt	FAIL	Adapter Content	C1_R+3_cutadapt.fastq.gz
+C2_L-10_cutadapt	PASS	Basic Statistics	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	FAIL	Per base sequence quality	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	WARN	Per tile sequence quality	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	PASS	Per sequence quality scores	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	FAIL	Per base sequence content	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	FAIL	Per sequence GC content	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	FAIL	Per base N content	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	WARN	Sequence Length Distribution	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	FAIL	Sequence Duplication Levels	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	FAIL	Overrepresented sequences	C2_L-10_cutadapt.fastq.gz
+C2_L-10_cutadapt	FAIL	Adapter Content	C2_L-10_cutadapt.fastq.gz
+C2_R+3_cutadapt	PASS	Basic Statistics	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Per base sequence quality	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	WARN	Per tile sequence quality	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Per sequence quality scores	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Per base sequence content	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Per sequence GC content	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Per base N content	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	WARN	Sequence Length Distribution	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Sequence Duplication Levels	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Overrepresented sequences	C2_R+3_cutadapt.fastq.gz
+C2_R+3_cutadapt	FAIL	Adapter Content	C2_R+3_cutadapt.fastq.gz
+C3_L-10_cutadapt	PASS	Basic Statistics	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	FAIL	Per base sequence quality	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	WARN	Per tile sequence quality	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	PASS	Per sequence quality scores	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	FAIL	Per base sequence content	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	FAIL	Per sequence GC content	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	FAIL	Per base N content	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	WARN	Sequence Length Distribution	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	FAIL	Sequence Duplication Levels	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	FAIL	Overrepresented sequences	C3_L-10_cutadapt.fastq.gz
+C3_L-10_cutadapt	FAIL	Adapter Content	C3_L-10_cutadapt.fastq.gz
+C3_R+3_cutadapt	PASS	Basic Statistics	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Per base sequence quality	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Per tile sequence quality	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	PASS	Per sequence quality scores	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Per base sequence content	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Per sequence GC content	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Per base N content	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	WARN	Sequence Length Distribution	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Sequence Duplication Levels	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Overrepresented sequences	C3_R+3_cutadapt.fastq.gz
+C3_R+3_cutadapt	FAIL	Adapter Content	C3_R+3_cutadapt.fastq.gz
