@@ -2,7 +2,7 @@
 
 ## Project goal
 
-In this repository I document mt attempt to reproduce the lncRNA RNA-seq analysis from a published astronaut exosome study. 
+In this repository I document my attempt to reproduce the lncRNA RNA-seq analysis from a published astronaut exosome study. 
 The authors reported 27 differentially regulated exosomal lncRNAs comparing three days after return with ten days pre-flight baseline. My goal was to reconstruct the computational work from public GEO/SRA data, compare my derived results to the published results, and document where I find difficulties while reproduction.
 
 ## Main findings
