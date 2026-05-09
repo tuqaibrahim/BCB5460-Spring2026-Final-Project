@@ -1,0 +1,67 @@
+sample	status	module	filename
+C1_L-10	PASS	Basic Statistics	C1_L-10.fastq.gz
+C1_L-10	FAIL	Per base sequence quality	C1_L-10.fastq.gz
+C1_L-10	PASS	Per tile sequence quality	C1_L-10.fastq.gz
+C1_L-10	PASS	Per sequence quality scores	C1_L-10.fastq.gz
+C1_L-10	FAIL	Per base sequence content	C1_L-10.fastq.gz
+C1_L-10	FAIL	Per sequence GC content	C1_L-10.fastq.gz
+C1_L-10	WARN	Per base N content	C1_L-10.fastq.gz
+C1_L-10	WARN	Sequence Length Distribution	C1_L-10.fastq.gz
+C1_L-10	FAIL	Sequence Duplication Levels	C1_L-10.fastq.gz
+C1_L-10	FAIL	Overrepresented sequences	C1_L-10.fastq.gz
+C1_L-10	FAIL	Adapter Content	C1_L-10.fastq.gz
+C1_R+3	PASS	Basic Statistics	C1_R+3.fastq.gz
+C1_R+3	FAIL	Per base sequence quality	C1_R+3.fastq.gz
+C1_R+3	PASS	Per tile sequence quality	C1_R+3.fastq.gz
+C1_R+3	FAIL	Per sequence quality scores	C1_R+3.fastq.gz
+C1_R+3	FAIL	Per base sequence content	C1_R+3.fastq.gz
+C1_R+3	FAIL	Per sequence GC content	C1_R+3.fastq.gz
+C1_R+3	WARN	Per base N content	C1_R+3.fastq.gz
+C1_R+3	WARN	Sequence Length Distribution	C1_R+3.fastq.gz
+C1_R+3	FAIL	Sequence Duplication Levels	C1_R+3.fastq.gz
+C1_R+3	FAIL	Overrepresented sequences	C1_R+3.fastq.gz
+C1_R+3	FAIL	Adapter Content	C1_R+3.fastq.gz
+C2_L-10	PASS	Basic Statistics	C2_L-10.fastq.gz
+C2_L-10	FAIL	Per base sequence quality	C2_L-10.fastq.gz
+C2_L-10	PASS	Per tile sequence quality	C2_L-10.fastq.gz
+C2_L-10	FAIL	Per sequence quality scores	C2_L-10.fastq.gz
+C2_L-10	FAIL	Per base sequence content	C2_L-10.fastq.gz
+C2_L-10	FAIL	Per sequence GC content	C2_L-10.fastq.gz
+C2_L-10	WARN	Per base N content	C2_L-10.fastq.gz
+C2_L-10	WARN	Sequence Length Distribution	C2_L-10.fastq.gz
+C2_L-10	FAIL	Sequence Duplication Levels	C2_L-10.fastq.gz
+C2_L-10	FAIL	Overrepresented sequences	C2_L-10.fastq.gz
+C2_L-10	FAIL	Adapter Content	C2_L-10.fastq.gz
+C2_R+3	PASS	Basic Statistics	C2_R+3.fastq.gz
+C2_R+3	FAIL	Per base sequence quality	C2_R+3.fastq.gz
+C2_R+3	PASS	Per tile sequence quality	C2_R+3.fastq.gz
+C2_R+3	FAIL	Per sequence quality scores	C2_R+3.fastq.gz
+C2_R+3	FAIL	Per base sequence content	C2_R+3.fastq.gz
+C2_R+3	FAIL	Per sequence GC content	C2_R+3.fastq.gz
+C2_R+3	WARN	Per base N content	C2_R+3.fastq.gz
+C2_R+3	WARN	Sequence Length Distribution	C2_R+3.fastq.gz
+C2_R+3	FAIL	Sequence Duplication Levels	C2_R+3.fastq.gz
+C2_R+3	FAIL	Overrepresented sequences	C2_R+3.fastq.gz
+C2_R+3	FAIL	Adapter Content	C2_R+3.fastq.gz
+C3_L-10	PASS	Basic Statistics	C3_L-10.fastq.gz
+C3_L-10	FAIL	Per base sequence quality	C3_L-10.fastq.gz
+C3_L-10	WARN	Per tile sequence quality	C3_L-10.fastq.gz
+C3_L-10	WARN	Per sequence quality scores	C3_L-10.fastq.gz
+C3_L-10	FAIL	Per base sequence content	C3_L-10.fastq.gz
+C3_L-10	FAIL	Per sequence GC content	C3_L-10.fastq.gz
+C3_L-10	WARN	Per base N content	C3_L-10.fastq.gz
+C3_L-10	WARN	Sequence Length Distribution	C3_L-10.fastq.gz
+C3_L-10	WARN	Sequence Duplication Levels	C3_L-10.fastq.gz
+C3_L-10	FAIL	Overrepresented sequences	C3_L-10.fastq.gz
+C3_L-10	FAIL	Adapter Content	C3_L-10.fastq.gz
+C3_R+3	PASS	Basic Statistics	C3_R+3.fastq.gz
+C3_R+3	FAIL	Per base sequence quality	C3_R+3.fastq.gz
+C3_R+3	WARN	Per tile sequence quality	C3_R+3.fastq.gz
+C3_R+3	FAIL	Per sequence quality scores	C3_R+3.fastq.gz
+C3_R+3	FAIL	Per base sequence content	C3_R+3.fastq.gz
+C3_R+3	FAIL	Per sequence GC content	C3_R+3.fastq.gz
+C3_R+3	WARN	Per base N content	C3_R+3.fastq.gz
+C3_R+3	WARN	Sequence Length Distribution	C3_R+3.fastq.gz
+C3_R+3	WARN	Sequence Duplication Levels	C3_R+3.fastq.gz
+C3_R+3	FAIL	Overrepresented sequences	C3_R+3.fastq.gz
+C3_R+3	FAIL	Adapter Content	C3_R+3.fastq.gz

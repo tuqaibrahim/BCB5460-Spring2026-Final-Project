@@ -1,0 +1,7 @@
+sample,astronaut,condition,timepoint
+C1_L-10,C1,pre,L-10
+C1_R+3,C1,post,R+3
+C2_L-10,C2,pre,L-10
+C2_R+3,C2,post,R+3
+C3_L-10,C3,pre,L-10
+C3_R+3,C3,post,R+3

@@ -1,0 +1,7 @@
+sample	fastq	reads
+C1_L-10	raw_merged_fastq/C1_L-10.fastq.gz	28431764
+C1_R+3	raw_merged_fastq/C1_R+3.fastq.gz	20824946
+C2_L-10	raw_merged_fastq/C2_L-10.fastq.gz	24370010
+C2_R+3	raw_merged_fastq/C2_R+3.fastq.gz	18850780
+C3_L-10	raw_merged_fastq/C3_L-10.fastq.gz	58450129
+C3_R+3	raw_merged_fastq/C3_R+3.fastq.gz	51411963

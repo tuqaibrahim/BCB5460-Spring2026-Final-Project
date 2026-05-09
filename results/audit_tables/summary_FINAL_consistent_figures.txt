@@ -1,0 +1,69 @@
+FINAL consistent paper-style figures from our derived data
+=========================================================
+
+Thresholds:
+abs(logFC) > 2 
+PValue < 0.001 
+FDR < 0.05 
+
+Total significant genes:
+[1] 34
+
+Up-regulated genes:
+[1] 15
+
+Down-regulated genes:
+[1] 19
+
+Panel E top 5 up genes, also labeled in Panel C:
+           ID    logFC       PValue        FDR
+23 AC022523.1 5.437739 3.278925e-05 0.02249849
+29 AL031722.1 5.367681 5.130352e-05 0.02822755
+30 AC099487.1 5.363156 5.419349e-05 0.02882371
+34 AC068025.2 5.291052 8.516838e-05 0.03996902
+16 AL109914.1 4.862105 1.230289e-05 0.01226906
+
+Panel E top 5 down genes, also labeled in Panel C:
+           ID     logFC       PValue          FDR
+11 AC009230.1 -5.890861 6.908366e-06 9.321758e-03
+1  AC090286.1 -4.879702 1.481183e-09 2.363375e-05
+33  LINC02375 -3.960731 8.257205e-05 3.992484e-02
+2  AC104078.1 -3.518407 3.180552e-08 2.092552e-04
+14 FBXL19-AS1 -3.491942 8.179030e-06 9.321758e-03
+
+Panel B full ordered significant table:
+            ID     logFC       PValue          FDR   significance
+23  AC022523.1  5.437739 3.278925e-05 2.249849e-02   Up-regulated
+29  AL031722.1  5.367681 5.130352e-05 2.822755e-02   Up-regulated
+30  AC099487.1  5.363156 5.419349e-05 2.882371e-02   Up-regulated
+34  AC068025.2  5.291052 8.516838e-05 3.996902e-02   Up-regulated
+16  AL109914.1  4.862105 1.230289e-05 1.226906e-02   Up-regulated
+9    LINC01591  4.414837 4.148719e-06 7.355218e-03   Up-regulated
+21   ASH1L-IT1  4.116729 2.763389e-05 2.073490e-02   Up-regulated
+8   AC020656.1  3.511596 2.599916e-06 5.185532e-03   Up-regulated
+19  AC022405.1  3.489484 2.579611e-05 2.073490e-02   Up-regulated
+7   AC099791.2  3.414390 1.326915e-06 3.024609e-03   Up-regulated
+17  AL133304.1  3.325967 1.400151e-05 1.314166e-02   Up-regulated
+22  AL590644.1  2.768999 2.858911e-05 2.073490e-02   Up-regulated
+18  AC110285.3  2.621409 1.805669e-05 1.600626e-02   Up-regulated
+24  AC064843.1  2.420256 3.384080e-05 2.249849e-02   Up-regulated
+32  ELAVL4-AS1  2.420019 6.500881e-05 3.241502e-02   Up-regulated
+11  AC009230.1 -5.890861 6.908366e-06 9.321758e-03 Down-regulated
+1   AC090286.1 -4.879702 1.481183e-09 2.363375e-05 Down-regulated
+33   LINC02375 -3.960731 8.257205e-05 3.992484e-02 Down-regulated
+2   AC104078.1 -3.518407 3.180552e-08 2.092552e-04 Down-regulated
+14  FBXL19-AS1 -3.491942 8.179030e-06 9.321758e-03 Down-regulated
+5   AC007161.3 -3.462933 6.664584e-07 2.126802e-03 Down-regulated
+3   AC011676.4 -3.447824 3.934355e-08 2.092552e-04 Down-regulated
+6      DLX2-DT -3.248865 1.297855e-06 3.024609e-03 Down-regulated
+4   AC004231.1 -3.156568 3.085517e-07 1.230813e-03 Down-regulated
+13    C9orf139 -3.096962 7.936102e-06 9.321758e-03 Down-regulated
+31  AC012511.2 -3.090564 5.617312e-05 2.891285e-02 Down-regulated
+10  AC010624.1 -2.770649 5.711643e-06 9.113498e-03 Down-regulated
+12  AL355574.1 -2.678064 7.212477e-06 9.321758e-03 Down-regulated
+28  AP000759.1 -2.673678 4.618449e-05 2.631856e-02 Down-regulated
+26 C9orf135-DT -2.610297 3.967658e-05 2.381102e-02 Down-regulated
+15  AL158801.2 -2.600299 9.096234e-06 9.675968e-03 Down-regulated
+25  AC037459.3 -2.583974 3.936741e-05 2.381102e-02 Down-regulated
+20  AL031686.1 -2.477164 2.618164e-05 2.073490e-02 Down-regulated
+27   LINC02338 -2.385569 4.029190e-05 2.381102e-02 Down-regulated
